@@ -8,5 +8,7 @@ public class Mars {
 		// this is some code
 		System.out.println("This is my last ");
 
+		//this will print hello
+		System.out.println("hello");
 	}
 }
